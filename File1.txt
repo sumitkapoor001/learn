@@ -1,1 +1,2 @@
-This is file 1. Now i am making some updates
+This is file 1. Now i am making some update
+s added something from main
